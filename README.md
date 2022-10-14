@@ -47,6 +47,4 @@ yarn add Flunt
 
 ...
 
-## 贡献者
-
 
