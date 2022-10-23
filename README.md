@@ -43,8 +43,3 @@ npm install Flunt
 yarn add Flunt
 ```
 
-## 🔨 Usage
-
-...
-
-
